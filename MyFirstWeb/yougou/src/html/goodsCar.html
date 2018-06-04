@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="../css/base.css" />
+        <link rel="stylesheet" type="text/css" href="../css/common.css" />
+        <link rel="stylesheet" type="text/css" href="../css/goodsCar.css" />
+        <script src="../js/require.js" data-main="../js/goodsCar"></script>
+    </head>
+    <body>
+        <div id="goodsCar">
+            <xtopToLogin></xtopToLogin>
+            <div id="top">
+                <div class="container clearfix">
+                    <h1><a href="../index.html"></a></h1>
+                    <ul>
+                        <li class="cur">我的购物车</li>
+                        <li>提交订单中心</li>
+                        <li>成功提交订单</li>
+                    </ul>
+                </div>
+
+            </div>
+            <div id="main">
+                <div class="container">
+                    <div id="main1">
+                        <table class="carListTable bd">
+                            <thead>
+                                <tr>
+                                    <th><input type="checkbox" class="checkAll">全选</th>
+                                    <th>商品名称</th>
+                                    <th>颜色尺码</th>
+                                    <th>单价</th>
+                                    <th>数量</th>
+                                    <th>小计</th>
+                                    <th>操作</th>
+                                </tr>
+                            </thead>
+                            <tbody class="uCarContent">
+
+                            </tbody>
+
+                        </table>
+                        <div class="check">
+                            <input type="checkbox" class="checkAll"/><span>全选</span><span><a href="#">移入收藏夹</a></span><span><a href="#" class="delGoods">删除</a></span>
+                        </div>
+                        <div class="main1B clearfix">
+                            <div class="main1BL fl"><button class="continueShopping" onclick="javascript:history.back(-1);">继续购物</button><a href="#" class="emptyCar">清空购物车</a></div>
+                            <div class="main1BR fr"><span class="total1">总计(不含运费)：</span><span class="total2">￥<b class="totalP"></b></span><button class="toPay"><a href="../html/payfor.html"></a>去结算</button></div>
+                        </div>
+                    </div>
+                    <div id="main2"></div>
+                    <div id="main3"></div>
+                    <div id="main4"></div>
+                    <div id="main5"></div>
+                </div>
+            </div>
+            <div id="bottom">
+                <div class="container">
+                    <span>Copyright © 2011-2014 Yougou Technology Co., Ltd. <a href="#">粤ICP备09070608号-4</a></span>
+                    <span>增值电信业务经营许可证：<a href="#">粤 B2-20090203</a></span>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

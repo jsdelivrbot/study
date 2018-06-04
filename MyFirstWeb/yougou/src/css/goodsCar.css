@@ -1,0 +1,53 @@
+/* 
+* @Author: Marte
+* @Date:   2018-05-31 15:27:05
+* @Last Modified by:   Marte
+* @Last Modified time: 2018-06-04 13:33:15
+*/
+
+input{background:#fff;}
+#goodsCar{font-size: 12px;min-width: 1190px;}
+#goodsCar a:hover{color:#E60012;}
+#goodsCar .container{width: 990px;}
+#goodsCar #top,#main,#bottom{background: #fff;}
+#goodsCar .bd{border:1px solid #eee;}
+#top{height: 85px;padding-top:20px;}
+#top h1{height: 48px;width: 358px;background:url('../img/logo.jpg') 0 0 ;float:left;}
+#top h1 a{display:block;width: 164px;height: 48px;}
+#top ul{width: 601px;padding:17px 0 29px 0;float:right;}
+#top li{width: 200px;height: 20px;background:#E8E8E8;text-align: center;line-height: 20px;color:#666666;float:left;}
+#top .cur{background:#FF9900;color:#fff;}
+#top i{}
+#main1{}
+.carListTable thead tr{height: 32px;}
+.carListTable th{line-height: 42px;color:#aaa;font-weight: normal;}
+.carListTable tr{height: 104px;border-bottom: 1px dotted #EEEEEE;}
+.carListTable{width: 990px;min-height: 200px;text-align: center;}
+.carListTable .ck{margin-right: 10px;background:#fff;border:1px solid #C5C5C5;}
+a:hover{cursor: pointer;}
+.check{height: 60px;padding-top: 16px;color:#666666;}
+.check a{color:#666666;}
+.check span{margin-right: 30px;}
+.carListTable .btn00{width: 24px;height: 24px;border:1px solid #CCCCCC;line-height: 24px;text-align: center;background:#fff;}
+.carListTable .debtn{margin-left: 46px;}
+.carListTable .chengeNumInput{width: 28px;height: 24px;border-top:1px solid #CCCCCC;;border-bottom: 1px solid #CCCCCC;line-height: 24px;text-align: center;}
+.carListTable a, .carListTable{color:#666666;}
+.carListTable .singleTotal{color:#E90012;font-weight: bold;}
+.main1B{height: 55px;background:#EEEEEE;}
+.main1BL{width: 258px;padding:7px 0 0 36px;}
+.main1BL button{width: 126px;height: 40px;border:1px solid #FFDD98;background:#FDF8F1;font-size:16px;line-height: 40px;color:#666666;}
+.main1BL a{line-height: 40px;margin-left: 34px;color:#3366CC;}
+.uCarContent img{width: 72px;height: 72px;border:1px solid #E6E6E6;}
+.main1BR{width: 345px;height: 55px;}
+.main1BR .total1{color:#666;font-size: 12px;line-height: 46px;}
+.main1BR .total2{display:inline-block;width: 52px;font-size: 16px;color:#A9A9A9;line-height: 46px;font-weight: bold;}
+.main1BR .total2 b{color:#E60012;}
+.main1B .toPay{width: 130px;height: 55px;margin-left: 70px;background:#FF5000;font-size: 12px;color:#fff;text-align: center;line-height: 55px;}
+#main2{height: 82px;}
+#main3{height: 710px;}
+#main4{height: 394px;}
+#main5{height: 468px;}
+#bottom{font-size: 14px;line-height: 40px;text-align: center;}
+#bottom .container{height: 72px;border-top:1px solid #E6E6E6;}
+#bottom span{color:#A9A9A9;}
+#bottom a{color:#666;}

@@ -1,0 +1,47 @@
+/* 
+* @Author: Marte
+* @Date:   2018-05-28 11:21:35
+* @Last Modified by:   Marte
+* @Last Modified time: 2018-06-04 13:30:29
+*/
+/* 
+* @Author: Marte
+* @Date:   2018-05-28 11:21:35
+* @Last Modified by:   Marte
+* @Last Modified time: 2018-05-28 20:37:47
+*/
+#register{min-width: 1190px;}
+#view{height: 70px;padding:15px 0 13px 0;}
+.viewL{width: 194px;}
+.viewL h1{text-indent: -1000px;}
+.viewL a{display:inline-block;width: 151px;height: 42px;background: url('../img/signin-register-logo.png') no-repeat;/*margin-top:10px;*/}
+.viewR{color:#666;line-height:42px;padding-left: 30px;border-left: 1px solid #E6E6E6;}
+#main{height: 554px;background:url('../img/loginBanner.jpg');background-size: 100% 100%;padding-top:14px;}
+.registerBox{width: 378px;height: 530px;background:#fff;font-size: 12px;padding-top:24px;}
+.registerFrom{padding-left:52px;width: 344px;border-bottom:1px solid #F3F3F3;margin-left: 15px;}
+/*.registerFrom li{margin-right: 4px;}*/
+.registerFrom li a{float:left;display:block;width: 122px;height: 40px;line-height:40px;background:#F3F3F3;float:left;text-align: center;margin-right: 4px;} 
+.registerFrom .register a{background:#333;color:#fff;}
+.registerFrom .login a{color:#333;background:#F3F3F3;}
+#registerForm{padding:30px 32px 0 32px;}
+#registerForm  input{height: 38px;line-height: 38px;font-size: 12px;}
+#registerForm p{border:1px solid #E3E2E2;padding-left: 10px;margin-bottom: 28px;}
+#registerForm .ph{height: 28px;border: 0 none;font-size: 12px;line-height:28px;color:#E60012;margin-bottom:0;}
+#registerForm .pm0{margin-bottom:0;}
+#registerForm .p1 input{width: 228px;}
+#registerForm select{width: 70px;height: 38px;font-size: 12px;border:0 none;}
+#registerForm .p2 input{width: 152px;padding-left: 8px;}
+#registerForm .p2,#registerForm .p2{display:inline;}
+#registerForm .btn1{width: 110px;height: 38px;background:#fff;color:#193CAA;font-size:18px;}
+
+#registerForm .p3 input{width: 162px;padding-left: 8px;}
+#registerForm .p3{width: 240px;}
+#registerForm .btn2{float:left;width: 70px;height: 38px;margin-left: 4px;background:#323232;color:#fff;}
+#registerForm .p4 input{width: 276px;padding-left: 40px;}
+#registerForm .p5 input{width: 254px;padding-left: 18px;}
+#registerForm .p6{text-align: center;border:0 none;margin-bottom: 4px; color:#666;}
+#registerForm .p6 span{color:#E60012;}
+#registerForm .p7 input{width: 312px;background:#E1373A;font-size: 15px;color:#fff;}
+#registerForm .p7{border:0 none;}
+#bottom{height: 40px;padding-top:16px;text-align:center;}
+#bottom span,#bottom a{font-size: 12px;color:#aaa;}

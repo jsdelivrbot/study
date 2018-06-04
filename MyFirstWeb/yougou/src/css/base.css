@@ -1,0 +1,45 @@
+/* 
+* @Author: Marte
+* @Date:   2018-05-25 20:13:47
+* @Last Modified by:   Marte
+* @Last Modified time: 2018-05-26 16:01:31
+*/
+*{margin: 0;padding: 0;box-sizing: border-box;}
+fieldset, img,input,button { border:0 none; padding:0;margin:0;outline-style:none; }  
+ul,li,ol{ list-style:none; }
+select, input { vertical-align:middle;}
+textarea { resize:none; } 
+img {border:0; vertical-align:middle; }  
+table { border-collapse:collapse; }
+a {text-decoration:none; }
+.clearfix:before,.clearfix:after { 
+    content:"";
+    display:table;
+}
+.clearfix:after{clear:both;}
+.clearfix{
+    *zoom:1;
+}
+html,body{width: 100%;}
+h1,h2,h3,h4,h5,h6 {font-weight:normal;font-size:1em;}
+s,i,em{font-style:normal;text-decoration:none;}
+
+.fl {
+    float:left;
+}
+.fr {
+    float:right;
+}
+.ac {
+    text-align:center;
+}
+.hide {
+    display:none;
+}
+
+.bl0{border-right: 0 none;}
+.br0{border-left: 0 none;}
+.f12{ font-size: 12px;}
+.f14{ font-size: 14px;}
+.f16{ font-size: 16px;}
+.f18{ font-size: 18px;}

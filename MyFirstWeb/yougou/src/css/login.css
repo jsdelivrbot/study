@@ -1,0 +1,51 @@
+/* 
+* @Author: Marte
+* @Date:   2018-05-28 11:21:35
+* @Last Modified by:   Marte
+* @Last Modified time: 2018-06-04 13:31:27
+*/
+.login{min-width: 1190px;}
+#view{height: 70px;padding:15px 0 13px 0;}
+.viewL{width: 194px;}
+.viewL h1{text-indent: -1000px;}
+.viewL a{display:inline-block;width: 151px;height: 42px;background: url('../img/signin-register-logo.png') no-repeat;/*margin-top:10px;*/}
+.viewR{color:#666;line-height:42px;padding-left: 30px;border-left: 1px solid #E6E6E6;}
+#main{height: 554px;background:url('../img/loginBanner.jpg');background-size: 100% 100%;padding-top:50px;}
+
+.loginFrom li{width: 174px;height: 41px;background:#F3F3F3;float:left;text-align: center;} 
+.loginFrom .active{background:#333;}
+.loginFrom .active a{color:#fff;}
+.loginFrom a{color:#333;line-height: 40px;}
+.loginFrom li:hover a{color:#E60012;}
+.loginFrom .active:hover a{color:#fff;}
+.loginBox{width: 378px;height: 450px;background:#fff;padding:24px 15px;position: relative;}
+.loginBox form{padding:31px 18px 0 18px;}
+.loginBox .b28{margin-bottom: 28px;border:1px solid #E3E2E2;}
+.loginBox .warning{height: 28px;color:#E60012;}
+#main i{display:inline-block;}
+.loginBox p i{width: 41px;height: 36px;background:url('../img/login.fw.png') 0 0;}
+.loginBox p .i2{background:url('../img/login.fw.png') 0 -40px;}
+.loginBox .btn input,#form2Login{width: 312px;height: 40px;background:#E1373A;font-size: 15px;color:#fff;}
+.loginBox input{width: 269px;height: 38px;}
+.forgotPsd{text-align: right;}
+.forgotPsd a{font-size: 12px;color:#666;line-height: 26px;text-decoration: underline;}
+.forgotPsd a:hover{color:#E60012;}
+.txt{line-height: 40px;color:#999;text-align: center;}
+.coIcon{padding:6px 8px;}
+.coIcon li{float:left;padding:6px 13px;}
+
+.coIcon i{width: 33px;height: 33px;background:url('../img/icon_sig_reg.fw.png') -37px -21px;}
+.coIcon .icon2{background:url('../img/icon_sig_reg.fw.png') -74px -21px;}
+.coIcon .icon3{background:url('../img/icon_sig_reg.fw.png') -110px -22px;}
+.coIcon .icon4{background:url('../img/icon_sig_reg.fw.png') -37px -57px;}
+.coIcon .icon5{background:url('../img/icon_sig_reg.fw.png') -74px -57px;}
+.form2{display:none;position:absolute;top:66px;left:16px;}
+
+.loginBox .form2 p{width: 313px;font-size: 12px;padding-left: 10px;}
+.loginBox .form2 .code{width: 236px;}
+.loginBox .form2 .code input{width: 154px;}
+.loginBox .form2 input{width: 240px;}
+.form2 span{margin-right: 6px;}
+#requireCode{width: 73px;height: 38px;background:#323232;color:#fff;font-size: 12px;}
+#bottom{height: 40px;padding-top:16px;text-align:center;}
+#bottom span,#bottom a{font-size: 12px;color:#aaa;}

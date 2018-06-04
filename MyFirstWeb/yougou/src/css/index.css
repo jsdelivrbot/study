@@ -1,0 +1,58 @@
+#yougou{min-width: 1190px;}
+#banner{height: 480px;}
+.BannerBox{width: 988px;height: 480px;overflow: hidden;position:relative;}
+.scollBanner{position:absolute;top:0;left:0;}
+.scollBanner li{float:left;}
+.page{position: absolute;right:46px;bottom:30px;}
+.page span{display: inline-block;width: 20px;height: 20px;border-radius:50%;background: black;margin-left: 10px;color:white;text-align: center;}
+.page span.active{box-sizing:border-box;background-color: #E60012;}
+.page span:hover{cursor: pointer;}
+#main{}
+.bg{background-color:#fff;}
+.bd{border:1px solid #D1D3D4;}
+#main li{float:left;}
+#main h3{padding-top:28px;font-size: 17px;line-height: 36px;border-bottom: 3px solid #000;font-weight:bold;font-family: 微软雅黑;}
+#main .span1{font-family: arial!important;margin-left: 6px;font-size: 15px;}
+#main .span2 a{float:right;display:inline-block;width: 117px;height: 38px;background:#000;line-height: 38px;text-align: center;color:#fff;font-weight: normal;font-family: arial;font-size: 15px;}
+#main .hotBrand{height: 587px;}
+#main .hotH3{color:#666;font-weight:normal;}
+#main .hotSpan1{font-size: 14px;font-family:微软雅黑;margin-left: 6px;}
+#main .hotSpan2 a{color:#666;background:none;}
+#main .hotSpan2 a:hover{color:#E60012;}
+.otherBrandBox i{display:inline-block;width: 35px;height: 56px;background:url('../img/brand_arrow_png8.fw.png') 0 -127px;position:absolute;}
+.otherBrandBox .i1{top:22px;left:24px;}
+.otherBrandBox .i2{background:url('../img/brand_arrow_png8.fw.png') -19px -127px;
+top:22px;right:24px;}
+.bigBrand{padding:26px 0 40px 0;}
+.bigBrand li{margin-left: 22px;}
+.otherBrandBox{height: 133px;width: 1170px;padding-bottom: 15px;overflow:hidden;position:relative;padding:0 52px;}
+.otherBrand li{width: 90px;height: 66px;}
+.mainCommen{height: 543px;}
+.commonStyle{padding:22px 0;height: 478px;}
+.mainDivL{width: 225px;height: 434px;padding:0 12px;}
+.mainDivL .brand{padding-top:18px;}
+.mainDivL .brand li{float:left;width: 99px;height: 70px;}
+.mainDivC{width: 360px;height: 434px;border:1px solid #DDDDDD;}
+.mainDivR{width: 604px;height: 434px;}
+.mainDivR ul{padding:0 22px 0 18px;}
+.mainDivR ul li{float:left;width: 187px;height: 217px;border-bottom: 2px solid #9B9B9B;}
+.mainDivR img{height: 210px;}
+#main .womenShoes{}
+#main .manShoes{}
+#main .sport-outdoor{}
+#main .children{}
+#main .specails{height: 427px;}
+.specailsL{width: 214px;}
+.bt0{border-top: 0 none;}
+.specailsL-ul li{width: 214px;height: 40px;border-right:1px solid #D1D3D4;border-bottom:1px solid #D1D3D4;padding:0 14px;font-size: 14px;color:#666;line-height: 40px;}
+.specailsL-ul span{color:#fff; float:right;}
+.specailsL-ul li:hover{background:#000;color:#fff;}
+.specailsR-ul{width: 974px;padding:21px 0 0 11px;font-size: 12px;}
+.specailsR-ul li{float:left;margin-right: 8px;width: 231px;height: 338px;}
+.specailsR-li-img{height: 239px;border:1px solid #D1D3D4;border-bottom: 0 none;}
+.specailsR-li-img img{width: 229px;height: 238px;}
+.specailsR-p1{background:#F0A1A1;height: 15px;color:#fff;padding-left: 6px;}
+.specailsR-p2{color:#666666;line-height: 20px;}
+.specailsR-p3 span{font-size: 14px;color:#E60012;}
+.specailsR-p3 del{margin-right:6px;color:#AAA;}
+
